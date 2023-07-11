@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.post h1{
+    text-align: center;
+}
+.post-title{
+ margin-top: 50px;
+display: inline-block;
+margin-left: 5px;
+text-align: center;
+width: 20%;
+box-shadow: 0 4px 16px 0 rgba(0,0,0,0.2);
+font-size: 12px;
+padding: 20px;
+}
+.post-title:hover{
+    background-color: bisque;
+}

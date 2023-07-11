@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.changer-one{
+    background-color: rgb(134, 134, 88);
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 10%;
+    padding: 20px;
+    color: white;
+}
+.changer-one h1{
+    margin-bottom: 20px;
+}
+.changer-one input{
+    width: 300px;
+
+}
+.changer-one button{
+    border: none;
+    color: white;
+    background-color: rgb(44, 2, 255);
+    padding: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.changer-two {
+    text-align: left;
+    margin-top: 10px;
+ 
+}
+
+.changer-two p {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    margin-bottom: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+.changer-two p i{
+    margin-left: auto;
+    cursor: pointer;
+}
+.changer-three {
+    display: none;
+}

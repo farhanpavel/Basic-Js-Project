@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.guess h1{
+    font-size: 20px;
+}
+.guess {
+    background-color: rgb(141, 141, 235);
+    color: white;
+    width: 35%;
+    margin: 0 auto;
+    margin-top: 20%;
+    padding: 50px;
+}
+.guess button{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-radius: 7px;
+    float: right;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.guess input{
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    padding-left: 5px;
+}
+.another {
+    color: black;
+    margin-top:50px;
+    text-align: center;
+}
